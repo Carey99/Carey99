@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carey Edwin</h1>
-<h3 align="center">I'm a passionate **Software Engineer** and **Backend Developer** focused on building, reliable, scalable, and efficient backend systems. I work with various programming languages and technologies to create a meaningful software solution. Besides that, solving problems is my forte😎.</h3>
+<h3 align="center">I'm a passionate Software Engineer and Backend Developer focused on building, reliable, scalable, and efficient backend systems. I work with various programming languages and technologies to create a meaningful software solution. Besides that, solving problems is my forte😎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carey99&label=Profile%20views&color=0e75b6&style=flat" alt="carey99" /> </p>
 
