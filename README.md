@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **RentEase App**
 
-- 🌱 I’m currently learning **UI/UX Desgnining**
+- 🌱 I’m currently learning **UI/UX Designing**
 
 - 💬 Ask me about **Python, JS, and MongoDB**
 
