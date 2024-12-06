@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **edwinakidah1@gmail.com**
 
-- 📄 Know about my experiences [http://carey99.github.io/my-cv/](http://carey99.github.io/my-cv/)
+- 📄 Know about my experiences [here](http://carey99.github.io/my-cv/)
 
-- 🌐 My [https://ceryakida.vercel.app/](portfolio)
+- 🌐 My [portfolio](https://ceryakida.vercel.app/)
 
 - ⚡ Mantra **Repetition is the mother of learning**
 
