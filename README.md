@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [http://carey99.github.io/my-cv/](http://carey99.github.io/my-cv/)
 
+- 🌐 My [https://ceryakida.vercel.app/](portfolio)
+
 - ⚡ Mantra **Repetition is the mother of learning**
 
 <h3 align="left">Connect with me:</h3>
