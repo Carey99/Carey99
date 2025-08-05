@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, JS, and MongoDB**
 
-- 📫 How to reach me **edwinakidah1@gmail.com**
+- 📫 How to reach me **ceryakida@gmail.com**
 
 - 📄 Know about my experiences [here](http://carey99.github.io/my-cv/)
 
