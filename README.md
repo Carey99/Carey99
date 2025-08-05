@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/carey_edwine" target="blank"><img src="https://img.shields.io/twitter/follow/carey_edwine?logo=twitter&style=for-the-badge" alt="carey_edwine" /></a> </p>
 
-- 🔭 I’m currently working on **RentEase App**
 
-- 🌱 I’m currently learning **UI/UX Designing**
 
-- 💬 Ask me about **Python, JS, and MongoDB**
+- 💬 Ask me about **C, Python, JS, and MongoDB**
 
 - 📫 How to reach me **ceryakida@gmail.com**
 
